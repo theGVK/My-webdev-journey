@@ -1,0 +1,22 @@
+img{
+    max-width: 500px;
+    border: 20px solid whitesmoke;
+}
+div
+{
+    
+    margin: auto;
+    margin-top: 10%;
+    max-width: 500px;
+    text-align: center;
+}
+html
+{
+    background-color: navy;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+
+}
